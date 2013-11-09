@@ -1,0 +1,9 @@
+[alias]
+    st=status
+    br=branch
+    lol='log --oneline --graph --decorate'
+[user]
+    name=Simon Alfassa
+    email=simon.alfassa@sa-web.fr
+[color]
+    ui=auto
