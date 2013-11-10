@@ -7,3 +7,5 @@
     email=simon.alfassa@sa-web.fr
 [color]
     ui=auto
+[merge]
+   tool = meld
