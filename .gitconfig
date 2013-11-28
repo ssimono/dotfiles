@@ -2,6 +2,7 @@
     st=status
     br=branch
     lol='log --oneline --graph --decorate'
+    cdiff=diff --cached
 [user]
     name=Simon Alfassa
     email=simon.alfassa@sa-web.fr
