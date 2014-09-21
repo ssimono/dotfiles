@@ -1,7 +1,7 @@
 [alias]
     st=status
     br=branch
-    lol='log --oneline --graph --decorate'
+    lol="log --oneline --graph --decorate"
     cdiff=diff --cached
 [user]
     name=Simon Alfassa
