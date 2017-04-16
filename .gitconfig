@@ -5,7 +5,7 @@
     cdiff=diff --cached
 [user]
     name=Simon Alfassa
-    email=simon.alfassa@sa-web.fr
+    email=simon@sa-web.fr
 [color]
     ui=auto
 [merge]
