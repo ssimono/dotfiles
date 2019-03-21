@@ -1,3 +1,2 @@
-syn on
-set softtabstop=4
-set autoindent
+softtabstop=4
+set smartindent

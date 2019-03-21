@@ -3,6 +3,7 @@
     br=branch
     lol="log --oneline --graph --decorate"
     cdiff=diff --cached
+    fmerge = merge --ff-only
 [user]
     name=Simon Alfassa
     email=simon@sa-web.fr

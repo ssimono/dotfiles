@@ -1,0 +1,4 @@
+'body':
+  'ctrl-shift-O': 'project-folder:add'
+  'ctrl-shift-H': 'window:focus-pane-on-left'
+  'alt-k': 'tabs:keep-pending-tab'
